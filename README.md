@@ -3,3 +3,5 @@
 readme example
 
 lembrei do comando: git commit
+
+É nóis Queiroz
